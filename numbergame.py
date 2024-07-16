@@ -25,4 +25,4 @@ while True:
             print(f"정답입니다! {attempts}번 만에 숫자를 맞추셨습니다.")
             break
     except ValueError:
-        print("유효한 숫자를 입력해주세요.")
+        print("유효한 숫자를 입력해주세요!")
